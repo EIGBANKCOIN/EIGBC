@@ -96,7 +96,7 @@ src/qt/test/moc*.cpp
 Makefile
 pivx-qt
 eigbankcoin-qt
-Jackpot-Qt.app
+EigBankCoin-Qt.app
 background.tiff*
 
 # Rust
