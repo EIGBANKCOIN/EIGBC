@@ -1,0 +1,11 @@
+[Protocol]
+exec=eigbankcoin-qt '%u'
+protocol=EIGBankCoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

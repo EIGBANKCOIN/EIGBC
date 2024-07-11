@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=EIGBankCoin 
+Comment=EIGBankCoin P2P Cryptocurrency
+Comment[fr]=EIGBankCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=EIGBankCoin, eşten eşe kriptografik sanal para birimi
+Exec=eigbankcoin-qt %u
+Terminal=false
+Type=Application
+Icon=pivx128
+MimeType=x-scheme-handler/eigbankcoin;
+Categories=Office;Finance;
+StartupWMClass=eigbankcoin-qt
